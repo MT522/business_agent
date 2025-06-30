@@ -22,11 +22,17 @@ This project implements a simple AI agent using LangGraph that analyzes basic bu
 ## 📦 Installation
 
 1. Create and activate virtual environment (recommended)
+
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 2. Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
 ## ▶️ Usage
 Run the agent on sample input:
